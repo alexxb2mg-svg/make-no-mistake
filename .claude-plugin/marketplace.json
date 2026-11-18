@@ -1,0 +1,11 @@
+{
+  "name": "make-no-mistake",
+  "owner": { "name": "alexxb2mg-svg" },
+  "plugins": [
+    {
+      "name": "make-no-mistake",
+      "source": "./",
+      "description": "Tells the agent to make no mistake. That is the whole product."
+    }
+  ]
+}

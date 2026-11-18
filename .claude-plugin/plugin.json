@@ -1,0 +1,5 @@
+{
+  "name": "make-no-mistake",
+  "version": "4.0.0",
+  "description": "Enterprise-grade, zero-dependency Mistake Prevention Layer for agentic systems. Tells the agent to make no mistake."
+}
